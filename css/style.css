@@ -11,6 +11,8 @@
 
 #projects {
   background-color: #001829;
+  background-image: url(/img/bg/star.png);
+  background-repeat: repeat-x;
 }
 
 #contact {
